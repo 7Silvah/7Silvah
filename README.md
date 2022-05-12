@@ -11,7 +11,7 @@
 <br />
 <br />
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif"
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/7Silvah/7Silvah/main/assets/tech-stack-7Silvah.gif"
     width="360px" />
 
 ### 🧐 More About Me:
@@ -68,16 +68,6 @@
 
 <br>
 
-### 📊 Github Stats
-
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-
-    ![Stats
-    Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-    ![Most Used
-    Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
-
-</a>
 
 <br>
 
