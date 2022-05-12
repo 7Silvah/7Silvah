@@ -5,10 +5,9 @@
         height='18px' /></a>
 <a href='https://twitter.com/jharahul98/' target="_blank"><img align='left' alt="twitter"
         src="https://raw.githubusercontent.com/7Silvah/7Silvah/0b0f838609269b80bbe18844ad61fa00c1b7d8e0/assets/twitter.svg"
-        height='18px' /></a>
+        height='18px' /></a><br>
 
 <p>Estoy Aprendiendo a mis 31 Años como promgramar desde Cero y espero en un Futuro ver esto y no parar de Reir </p>
-<br />
 <br />
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/7Silvah/7Silvah/main/assets/tech-stack-7Silvah.gif"
