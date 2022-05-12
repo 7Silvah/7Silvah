@@ -1,4 +1,4 @@
-## Hola 👋, Soy Frank Silva!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4200&color=146C64&background=FFFFFF00&multiline=true&width=500&height=100&lines=Hola+%F0%9F%91%8B%2C+Soy+Frank+Silva!)](https://git.io/typing-svg)
 
 <a href='https://www.linkedin.com/in/frank-silva-a23139220/' target="_blank"><img align='left' alt="linkedin"
         src="https://raw.githubusercontent.com/7Silvah/7Silvah/0b0f838609269b80bbe18844ad61fa00c1b7d8e0/assets/linkedin.svg"
@@ -17,7 +17,6 @@
 ### 🧐 Más Sobre mí:
 
 - 🌱 &nbsp; Actualmente estoy aprendiendo HTML5, CSS3, JavaScript, ;
-
 
 <br>
 
