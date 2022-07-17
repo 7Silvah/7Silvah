@@ -7,7 +7,9 @@
         src="https://raw.githubusercontent.com/7Silvah/7Silvah/0b0f838609269b80bbe18844ad61fa00c1b7d8e0/assets/twitter.svg"
         height='18px' /></a><br>
 
-<p>Estoy Aprendiendo a mis 31 Años cómo promgramar desde Cero y espero en un Futuro ver esto y no parar de Reir. Estoy Usando Notion, Platzi, EdTeam e Internet para Aprender de la Mejor forma que puedo. </p>
+<p>Estoy Aprendiendo a mis 31 Años cómo promgramar desde Cero y espero en un Futuro ver esto y no parar de Reir. </p>
+<br />
+<p>Estoy Usando Notion, Platzi, EdTeam e Internet para Aprender de la Mejor forma que puedo. </p>
 <br />
 <p>En estos Momentos ya he aprendido HTML, CSS. Ahora estoy Aprendiendo Git y GitHub</p>
 
