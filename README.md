@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4200&color=146C64&background=FFFFFF00&multiline=true&width=300&height=100&lines=Hola+%F0%9F%91%8B%2C+Soy+Frank+Silva!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0CAE01&width=435&lines=Hola%2C+Soy+Frank+Silva+Hidalgo)](https://git.io/typing-svg)
 
 Estoy Aprendiendo a mis 32 Años cómo promgramar desde Cero y espero en un Futuro ver esto y no parar de Reir.
 
